@@ -1,11 +1,13 @@
 # Data-Analysis-with-Tableau
 Learning Objectives
+
 1.	Data Extracts: How to create, when is it appropriate to use?
 2.	Table calculations, Year over Year Growth Calculations
 3.	Reference lines and bullet graphs for monitoring performance
 4.	Filtering based on ranks. Identifying leading and lagging performers
 
 Instructions
+
 1.	Data Source
 a.	FactSales, Channel, Date, Product and Subcategory, Category, Store and Geography, Promotion
 b.	Create Custom SQL (Data-> Covert to Custom SQL)
