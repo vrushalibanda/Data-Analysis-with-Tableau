@@ -39,7 +39,9 @@ b.	Create Bullet graph with Product Categories as dimension, 2009 and 2008 sales
 
 4.	Create new sheet: Top Selling Products
 a.	Create calculated field profit as Sales Amount – (Total Cost + Return Amount)
+
 b.	Create calculated field to rank products that exceed 2008 sales targets
 i.	RANK(SUM([YR 2009 Sales])-SUM([YR2008 Sales]))
+
 c.	Use Product Names as Columns and Sales 2009 and Sales 2008, and Profit as measures 
 
